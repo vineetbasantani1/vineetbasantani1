@@ -4,7 +4,7 @@
 
 ## About
 
-I clean up product catalogs, part numbers and vendor records for tool, hardware, welding and auto-parts businesses. I also publish open-data analysis of Canadian housing and household finance.
+I clean up product catalogs, part numbers and vendor records for tool and hardware businesses. I also publish open-data analysis of Canadian housing and household finance.
 
 The audit is free: you get a short, specific write-up of what I find, with no obligation.
 
